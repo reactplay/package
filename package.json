@@ -1,5 +1,5 @@
 {
-  "name": "react-play",
+  "name": "react-play-pk",
   "version": "0.0.1",
   "description": "This package takes care of basic react-play business logic to share accross the repos and applications",
   "main": "index.js",
