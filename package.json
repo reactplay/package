@@ -1,0 +1,22 @@
+{
+  "name": "react-play-pk",
+  "version": "0.0.1",
+  "description": "This package takes care of basic react-play business logic to share accross the repos and applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reactplay/package.git"
+  },
+  "keywords": [
+    "react-play"
+  ],
+  "author": "koustov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reactplay/package/issues"
+  },
+  "homepage": "https://github.com/reactplay/package#readme"
+}
